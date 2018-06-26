@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MoviesFull</string>
+
+    <string name="error_message">Unable to retrieve movie data.
+        You may still view Favorites while offline, or check your connection
+        and choose a different sorting method to try to reload.</string>
+    <string name="big_picture_desc">Image from movie poster</string>
+    <string name="divider_desc">Invisible divider line</string>
+    <string name="vote_avg">Average of User Votes</string>
+    <string name="release_date">Release Date</string>
+    <string name="out_of_stars">/10 stars</string>
+    <string name="popular_sort">Most popular first</string>
+    <string name="rating_sort">Highest rated first</string>
+    <string name="show_favorites">Show favorites</string>
+    <string name="already_popular">Already showing most popular</string>
+    <string name="already_top">Already showing top-rated</string>
+    <string name="already_fave">Already showing favorites</string>
+    <string name="bad_selection">Invalid sort choice</string>
+    <string name="videos_label">VIDEOS</string>
+    <string name="reviews_label">REVIEWS</string>
+    <string name="video_text">Video URL: https://www.youtube.com/watch?v=</string>
+    <string name="review_text">Review by themoviedb user </string>
+    <string name="no_videos">No videos available</string>
+    <string name="no_reviews">No reviews available</string>
+    <string name="no_connection_extras">No Internet connection. Videos and reviews will only be shown when
+        app is connected to the Internet.</string>
+
+</resources>
